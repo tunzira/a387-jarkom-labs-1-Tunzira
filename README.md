@@ -1,18 +1,1 @@
-# a387-jarkom-labs-1-Tunzira
- Ini Adalah Github untuk pengerjaan tugas akhir  Proyek Membangun Web Server Dicoding
- 
- # A387-Jarkom-Labs
-Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
----
-Tata cara menjalankan project:
-1. Install node modules
-```
-npm install
-```
-2. Jalankan project
-
-```
-node app.js
-```
-npm run start
-```
+# gke-tunzita-abrar
